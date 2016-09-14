@@ -8,7 +8,7 @@ update() {
   git submodule update --init --recursive
   install_rocks
 }
-#By: @AdvanTm
+#By: @EleGanceTM
 # Will install luarocks on THIS_DIR/.luarocks
 install_luarocks() {
   git clone https://github.com/keplerproject/luarocks.git
@@ -114,7 +114,7 @@ install() {
   echo ""
   echo ""
 }
-#By: @AdvanTm
+#By: @EleGanceTM
 if [ "$1" = "install" ]; then
   install
 elif [ "$1" = "update" ]; then
@@ -135,15 +135,15 @@ fi
 if [ "$1" = "api" ]; then
    echo -e "\033[38;5;208m"
    echo -e "----------------------------------------------"
-   echo -e "     ___    ____ __    __ ___    _   _        "
-   echo -e "    / _ \  |  _ \\ \  / // _ \  | \  ||       "
-   echo -e "   / /_\ \ | |_| |\ \/ // /_\ \ ||\\_||       "
-   echo -e "  /_/   \_\|____/  \__//_/   \_\|| \__|       "
+   echo -e "                                              "
+   echo -e "   @EleGanceTM   @EleGanceTM   @EleGanceTM    "
    echo -e "                                              "
    echo -e "----------------------------------------------"
-   echo -e "                  API MOD                     "
-   echo -e "         ----------------------------         "
-   echo -e "         CopyRight all right reserved         "
+   echo -e "                   MOD : API                  "
+   echo -e "----------------------------------------------"
+   echo -e "                                              "
+   echo -e "   @EleGanceTM   @EleGanceTM   @EleGanceTM    "
+   echo -e "                                              "
    echo -e "----------------------------------------------"
    echo -e "                                              \033[0;00m"
    echo -e "\e[36m"
@@ -157,15 +157,15 @@ elif [ "$1" = "self" ]; then
   git clone https://gitlab.com/antispam/plugins-self
    echo -e "\033[38;5;208m"
    echo -e "----------------------------------------------"
-   echo -e "     ___    ____ __    __ ___    _   _        "
-   echo -e "    / _ \  |  _ \\ \  / // _ \  | \  ||       "
-   echo -e "   / /_\ \ | |_| |\ \/ // /_\ \ ||\\_||       "
-   echo -e "  /_/   \_\|____/  \__//_/   \_\|| \__|       "
+   echo -e "                                              "
+   echo -e "   @EleGanceTM   @EleGanceTM   @EleGanceTM    "
    echo -e "                                              "
    echo -e "----------------------------------------------"
-   echo -e "                   SELF MOD                   "
-   echo -e "         ----------------------------         "
-   echo -e "         CopyRight all right reserved         "
+   echo -e "                  MOD : SELF                  "
+   echo -e "----------------------------------------------"
+   echo -e "                                              "
+   echo -e "   @EleGanceTM   @EleGanceTM   @EleGanceTM    "
+   echo -e "                                              "
    echo -e "----------------------------------------------"
    echo -e "                                              \033[0;00m"
    echo -e "\e[36m"
@@ -194,15 +194,15 @@ elif [ "$1" = "help" ]; then
 fi
    echo -e "\033[38;5;208m"
    echo -e "----------------------------------------------"
-   echo -e "     ___    ____ __    __ ___    _   _        "
-   echo -e "    / _ \  |  _ \\ \  / // _ \  | \  ||       "
-   echo -e "   / /_\ \ | |_| |\ \/ // /_\ \ ||\\_||       "
-   echo -e "  /_/   \_\|____/  \__//_/   \_\|| \__|       "
+   echo -e "                                              "
+   echo -e "   @EleGanceTM   @EleGanceTM   @EleGanceTM    "
    echo -e "                                              "
    echo -e "----------------------------------------------"
-   echo -e "                   CLI MOD                    "
-   echo -e "         ----------------------------         "
-   echo -e "         CopyRight all right reserved         "
+   echo -e "                   MOD : CLI                  "
+   echo -e "----------------------------------------------"
+   echo -e "                                              "
+   echo -e "   @EleGanceTM   @EleGanceTM   @EleGanceTM    "
+   echo -e "                                              "
    echo -e "----------------------------------------------"
    echo -e "                                              \033[0;00m"
    echo -e "\e[36m"
